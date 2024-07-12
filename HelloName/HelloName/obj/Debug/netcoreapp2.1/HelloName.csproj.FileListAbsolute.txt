@@ -1,0 +1,12 @@
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\bin\Debug\netcoreapp2.1\HelloName.deps.json
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\bin\Debug\netcoreapp2.1\HelloName.runtimeconfig.json
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\bin\Debug\netcoreapp2.1\HelloName.runtimeconfig.dev.json
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\bin\Debug\netcoreapp2.1\HelloName.dll
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\bin\Debug\netcoreapp2.1\HelloName.pdb
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\obj\Debug\netcoreapp2.1\HelloName.csproj.AssemblyReference.cache
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\obj\Debug\netcoreapp2.1\HelloName.AssemblyInfoInputs.cache
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\obj\Debug\netcoreapp2.1\HelloName.AssemblyInfo.cs
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\obj\Debug\netcoreapp2.1\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\obj\Debug\netcoreapp2.1\HelloName.dll
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\obj\Debug\netcoreapp2.1\HelloName.pdb
+C:\Users\CommercePromote\Documents\beva\GavinLon\HelloName\HelloName\obj\Debug\netcoreapp2.1\HelloName.genruntimeconfig.cache
