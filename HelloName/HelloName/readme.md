@@ -62,3 +62,10 @@ Version Number |Release Date |End of Support
 * `dotnet run` - to run the project
 * `notepad program.cs` - to change the code using notpad
 * `explorer .` - to open the file explorer
+
+# .Net Assembly
+* Assemblies are the building blocks of .NET Freamwork applications.
+* They form the fundermetal unit of deployment, version control, reuse, activation scoping, and security permissions
+* An assembly is a collection of types and resources that are built to work together and form a logical unit of functionality.
+* To the runtime, a type does not exist outside the context of an assembly.
+* A .net assembly can be an excutable file(with a .exe file extension) or a dynamic linked library file(with a .dill file extension)
